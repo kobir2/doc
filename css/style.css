@@ -1,0 +1,142 @@
+
+/* 
+Author: MD HUMAUN KOBIR;
+Mailing address: koirmdhumaun2000@gmail.com
+Website: hoynihobe.com
+*/
+
+/* 
+    ====INDEX====
+
+    1: header ;
+    2: Fusce at ; 
+    3: Facilisis ;
+    4: Ante donec;
+    5: Blandit rhoncus;
+    6: Placerat;
+    8: footer;
+                 
+*/
+
+
+
+/* global css */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+
+h1{
+
+}
+h2{
+
+}
+h3{
+    color: #000;
+   
+}
+h4{
+
+}
+
+p{
+    color: #000;
+}
+
+.custom-btn{
+    color: #612316;
+    background: #fff;
+    padding: 10px 25px;
+    border: 1px solid #7b7370;
+    border-radius: 25px;
+}
+
+.custom-btn:hover{
+    background: #000;
+    color: rgb(21, 43, 241);
+}
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+}
+/* theme css */
+
+
+/* header section start */
+
+header {
+    width: 100%;
+    padding: 50px 0;
+}
+
+.gh{
+    height: 100px;
+}
+.nav-link{
+    color: #fff;
+}
+
+.nav-link:hover{
+    color: aqua;
+}
+
+i.fa.fa-bars {
+    color: #fff;
+}
+
+/* header section end */
+
+
+/* both section start */
+
+
+.both{
+    width: 100%;
+    overflow: hidden;
+    padding: 50px 0;
+}
+/* both section end */
+/* depatment section start */
+
+section.list {
+    width: 100%;
+    overflow: hidden;
+}
+a.deparment-inner {
+    display: block;
+    margin: 10px 0;
+    color: #008000;
+    padding: 5px 0;
+    
+}
+
+
+.deparment-inner:hover{
+    text-decoration: none;
+    color: #000;
+}
+
+/* span.role {
+    display: block;
+    background: #000;
+    width: 50%;
+    height: 2px;
+} */
+
+.deparmeent-li a {
+    color: #000;
+
+}
+.deparmeent-li a:hover {
+    color: #1c9b0d;
+    text-decoration: none;
+}
+/* depatment section end */
